@@ -11,7 +11,7 @@ global.location = "Pakistan, Lahore"
 
 global.ownernumber = '923012600757'  //creator number
 global.ownername = ' MR IMRAN ' //owner name
-global.botname = 'WASI TECH BUG BOT ' //name of the bot
+global.botname = 'IMRAN HACKER BUG BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
