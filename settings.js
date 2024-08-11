@@ -9,7 +9,7 @@ global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
-global.ownernumber = '923080050100'  //creator number
+global.ownernumber = '923012600757'  //creator number
 global.ownername = ' MR IMRAN ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
