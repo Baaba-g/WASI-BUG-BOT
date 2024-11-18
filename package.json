@@ -1,7 +1,7 @@
 {
     "name": "WBug-Bot",
     "version": "6.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "WhatsAppng Nodejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
